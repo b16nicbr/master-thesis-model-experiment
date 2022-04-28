@@ -1,5 +1,5 @@
 # master-thesis-model-experiment
-The implementations for the five candidate machine learning methods used to answer the question on predicting number of infections in Covid19 is seen in the following files;
+The implementations for the five candidate machine learning methods used to answer the question on predicting number of infections in Covid19 are seen in the following files;
 * The implementation of BI-LSTM is shown in BI-LSTM hybrid model
 * The implementation of LSTM-CNN is shown in LSTM-CNN 
 * The implementation of LSTM is shown in LSTM model 38 weeks
